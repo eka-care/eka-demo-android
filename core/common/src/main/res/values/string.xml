@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="new_chat">New chat</string>
+    <string name="are_you_done_with_conversation">Are you done with the conversation?</string>
+    <string name="make_sure_you_record_entire_convo">Make sure you record entire conversation to get accurate medical notes.</string>
+    <string name="looks_like_your_conversation_is_too_short">Looks like your conversation is too short to analyse :(</string>
+    <string name="for_accurate_analysis_please_ensure_your_microphone">For accurate analysis, please ensure your microphone is working properly and minimize background noise.
+To generate clinical notes, the conversation should be at least 15 words long.</string>
+    <string name="you_are_online_now">You are online now</string>
+    <string name="you_are_offline">You are offline</string>
+    <string name="refresh">Refresh</string>
+    <string name="contact_permission_title">Contact Permission Required</string>
+    <string name="contact_permission_desc">Please allow contact access .\nTo give contact access please open app settings and enable contact permission.</string>
+    <string name="open_app_setting">Open App Settings</string>
+    <string name="rooted_device">It seems the device is rooted \nThis application can not run on rooted device</string>
+    <string name="error">Error</string>
+    <string name="ok_got_it">Ok, Got it</string>
+    <string name="morning">Good Morning</string>
+    <string name="afternoon">Good Afternoon</string>
+    <string name="evening">Good Evening</string>
+</resources>

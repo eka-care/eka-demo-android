@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Eka Care Intl</string>
+    <string name="close" translatable="false">Close</string>
+    <string name="logout_mesaage">Session expired. Please log in again.</string>
+    <string name="no_network_title" translatable="false">Internet Connection Lost</string>
+    <string name="no_network_msg" translatable="false">Make sure your phone is connected to an active WiFi network / mobile data connection</string>
+    <string name="setting" translatable="false">Settings</string>
+    <string name="retry" translatable="false">Retry</string>
+</resources>
