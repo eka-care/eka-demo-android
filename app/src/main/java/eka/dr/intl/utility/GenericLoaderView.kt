@@ -5,8 +5,8 @@ import android.util.AttributeSet
 import android.view.LayoutInflater
 import coil.load
 import eka.dr.intl.icons.R
-import eka.dr.intl.databinding.GenericLoaderViewBinding
 import androidx.constraintlayout.widget.ConstraintLayout
+import eka.dr.intl.databinding.GenericLoaderViewBinding
 
 class GenericLoaderView @JvmOverloads constructor(
     context: Context, attrs: AttributeSet? = null, defStyleAttr: Int = 0

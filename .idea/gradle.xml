@@ -21,7 +21,6 @@
             <option value="$PROJECT_DIR$/core/theme/ui" />
             <option value="$PROJECT_DIR$/features" />
             <option value="$PROJECT_DIR$/features/assistant" />
-            <option value="$PROJECT_DIR$/features/neev" />
             <option value="$PROJECT_DIR$/features/patients" />
             <option value="$PROJECT_DIR$/features/records" />
           </set>

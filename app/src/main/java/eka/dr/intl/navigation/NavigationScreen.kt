@@ -29,7 +29,6 @@ import eka.dr.intl.assistant.presentation.viewmodel.EkaChatViewModel
 import eka.dr.intl.assistant.presentation.viewmodel.Voice2RxViewModel
 import eka.dr.intl.assistant.utility.ChatUtils
 import eka.dr.intl.common.IAmCommon
-import eka.dr.intl.common.PageParams
 import eka.dr.intl.common.Restrictions
 import eka.dr.intl.common.presentation.viewmodel.DoctorStatusViewModel
 import eka.dr.intl.patients.naviagtion.AddPatientToDirectoryNavModel
