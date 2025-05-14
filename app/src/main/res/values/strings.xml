@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Eka Care Intl</string>
+    <string name="app_name">TryKit for Developers</string>
     <string name="close" translatable="false">Close</string>
     <string name="logout_mesaage">Session expired. Please log in again.</string>
     <string name="no_network_title" translatable="false">Internet Connection Lost</string>

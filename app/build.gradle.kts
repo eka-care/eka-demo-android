@@ -26,7 +26,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "eka.dr.intl"
+        applicationId = "health.orbi.trykit"
         minSdk = 23
         targetSdk = 35
         versionCode = 1
