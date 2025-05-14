@@ -30,7 +30,7 @@ googleFonts = "1.8.0"
 material3 = "1.3.2"
 coil = "2.7.0"
 paging-version = "3.3.6"
-records = "3.2.3"
+records = "1.3.8"
 libphonenumber = "8.12.32"
 voice2rx_sdk_version = "1.1.6"
 lottie-compose = "6.0.0"
@@ -93,7 +93,7 @@ androidx-fonts = { module = "androidx.compose.ui:ui-text-google-fonts", version.
 
 coil-compose = { module = "io.coil-kt:coil-compose", version.ref = "coil" }
 libphonenumber = { module = "com.googlecode.libphonenumber:libphonenumber", version.ref = "libphonenumber" }
-eka-health-records = { group = "com.eka.records", name = "eka-records", version.ref = "records" }
+eka-health-records = { group = "com.github.eka-care", name = "eka-health-records-android", version.ref = "records" }
 voice2rx_sdk = { module = "com.github.eka-care:eka-v2rx-android", version.ref = "voice2rx_sdk_version" }
 ai-chat = { module = "com.github.eka-care:ai-chat", version.ref = "aiChat" }
 
